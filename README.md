@@ -4,15 +4,25 @@ The code in this toolbox implements the "Multi-attentive hierarchical dense fusi
 Please kindly cite the papers if this code is useful and helpful for your research.
 
 @article{WANG20221,
+
 title = {Multi-attentive hierarchical dense fusion net for fusion classification of hyperspectral and LiDAR data},
+
 journal = {Information Fusion},
+
 volume = {82},
+
 pages = {1-18},
+
 year = {2022},
+
 issn = {1566-2535},
+
 doi = {https://doi.org/10.1016/j.inffus.2021.12.008},
+
 url = {https://www.sciencedirect.com/science/article/pii/S156625352100258X},
+
 author = {Xianghai Wang and Yining Feng and Ruoxi Song and Zhenhua Mu and Chuanming Song},
+
 }
 
 System-specific notes
