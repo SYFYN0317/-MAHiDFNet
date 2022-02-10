@@ -33,4 +33,4 @@ Directly run main_c.py to reproduce the results.
 
 If you want to run the code in your own data, you can accordingly change the input (e.g., data) and tune the parameters
 
-If you encounter the bugs while using this code, please do not hesitate to contact us. (syfyn@outlook.com)
+If you encounter the bugs while using this code, please do not hesitate to contact us. (SYFyn@outlook.com)
