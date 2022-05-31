@@ -9,7 +9,6 @@ import h5py
 import argparse 
 
 from data_F import *
-from data_m import *
 from models_c import *
 from ops import *
 from keras.callbacks import ModelCheckpoint
